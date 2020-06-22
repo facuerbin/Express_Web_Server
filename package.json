@@ -1,0 +1,21 @@
+{
+  "name": "web_server",
+  "version": "1.0.0",
+  "description": "NodeJS Express web server for static web pages.",
+  "main": "web_server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Node",
+    "Express",
+    "Web",
+    "Server"
+  ],
+  "author": "Facundo Erbin",
+  "repository": "https://github.com/facuerbin/Express_Web_Server.git",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
